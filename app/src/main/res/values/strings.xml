@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Who wants to be a Millionaire?</string>
+    <string name="correct_answer">"CORRECT answer! You won $"</string>
+    <string name="wrong_answer">"Oh no! Its a wrong answer! You lost!"</string>
+    <string name="win">You won : </string>
+    <string name="quit">Quit the game</string>
+    <string name="emptyinput">You have to select atleast one option</string>
+    <string name="congrats">Congratulations...</string>
+    <string name="sorry">Sorry! Better Luck next time!</string>
+    <string name="tryagain">TRY AGAIN</string>
+    <string name="question_1">Whats the longest river in the world?</string>
+    <string name="option_1_a">GANGES</string>
+    <string name="option_1_b">AMAZON</string>
+    <string name="option_1_c">NILE</string>
+    <string name="option_1_d">HUDSON</string>
+    <string name="answer_1">NILE</string>
+
+    <string name="question_2">What’s the national animal of Australia?</string>
+    <string name="option_2_a">HORSE</string>
+    <string name="option_2_b">WHITE LEOPARD</string>
+    <string name="option_2_c">WOLF</string>
+    <string name="option_2_d">RED KANGAROO</string>
+    <string name="answer_2">RED KANGAROO</string>
+
+    <string name="question_3">How many keys does a classic piano have?</string>
+    <string name="option_3_a">80</string>
+    <string name="option_3_b">88</string>
+    <string name="option_3_c">98</string>
+    <string name="option_3_d">90</string>
+    <string name="answer_3">88</string>
+
+    <string name="question_4">What is the name of the coffee shop in the sitcom Friends?</string>
+    <string name="option_4_a">The Park</string>
+    <string name="option_4_b">Central Perk</string>
+    <string name="option_4_c">Magnolia</string>
+    <string name="option_4_d">Starbucks</string>
+    <string name="answer_4">Central Perk</string>
+
+    <string name="question_5">Which artist painted the ceiling of the Sistine Chapel in Rome?</string>
+    <string name="option_5_a">MonLi</string>
+    <string name="option_5_b">Shakespeare</string>
+    <string name="option_5_c">Michelangelo</string>
+    <string name="option_5_d">Leonardo Da Vinci</string>
+    <string name="answer_5">Michelangelo</string>
+
+    <string name="question_6">What’s the smallest country in the world? </string>
+    <string name="option_6_a">Sri lanka</string>
+    <string name="option_6_b">Argentina</string>
+    <string name="option_6_c">Nepal</string>
+    <string name="option_6_d">Vatican City</string>
+    <string name="answer_6">Vatican City</string>
+
+    <string name="question_7">What’s the capital of Canada?</string>
+    <string name="option_7_a">Ottawa</string>
+    <string name="option_7_b">Victoria</string>
+    <string name="option_7_c">Vancouver</string>
+    <string name="option_7_d">Toronto</string>
+    <string name="answer_7">Ottawa</string>
+
+    <string name="question_8">What’s the national flower of Japan?</string>
+    <string name="option_8_a">Dandelion</string>
+    <string name="option_8_b">Cherry Blossom</string>
+    <string name="option_8_c">Lotus</string>
+    <string name="option_8_d">Tulip</string>
+    <string name="answer_8">Cherry Blossom</string>
+
+    <string name="question_9">Where was the first modern Olympic Games held? </string>
+    <string name="option_9_a">Dubai</string>
+    <string name="option_9_b">Russia</string>
+    <string name="option_9_c">Athens</string>
+    <string name="option_9_d">New York</string>
+    <string name="answer_9">Athens</string>
+
+    <string name="question_10">What was the clothing company Nike originally called?</string>
+    <string name="option_10_a">Blue Ribbon Sports</string>
+    <string name="option_10_b">Sports Forever</string>
+    <string name="option_10_c">Sports and More</string>
+    <string name="option_10_d">World of Sports</string>
+    <string name="answer_10">Blue Ribbon Sports</string>
+
+    <string name="question_11">How many time zones are there in Russia?</string>
+    <string name="option_11_a">12</string>
+    <string name="option_11_b">11</string>
+    <string name="option_11_c">13</string>
+    <string name="option_11_d">14</string>
+    <string name="answer_11">11</string>
+
+    <string name="question_12">Which language has the most words</string>
+    <string name="option_12_a">French</string>
+    <string name="option_12_b">Russian</string>
+    <string name="option_12_c">English</string>
+    <string name="option_12_d">Arabic</string>
+    <string name="answer_12">English</string>
+
+    <string name="question_13">Whats the best-selling book series of the 21st century?</string>
+    <string name="option_13_a">The Diary</string>
+    <string name="option_13_b">Harry Potter</string>
+    <string name="option_13_c">Odyssey</string>
+    <string name="option_13_d">Vanity Affair</string>
+    <string name="answer_13">Harry Potter</string>
+
+    <string name="question_14">Which football team is known as ‘The Red Devils’??</string>
+    <string name="option_14_a">Jets</string>
+    <string name="option_14_b">Manchester United</string>
+    <string name="option_14_c">Atlanta Falcons</string>
+    <string name="option_14_d">Green Bay packers</string>
+    <string name="answer_14">Manchester United</string>
+
+    <string name="question_15">Which driver has won the most Formula 1 championships?</string>
+    <string name="option_15_a">Nico Hulkenberg</string>
+    <string name="option_15_b">Valtteri Bottas</string>
+    <string name="option_15_c">Michael Schumacher</string>
+    <string name="option_15_d">Lando Norris</string>
+    <string name="answer_15">Michael Schumacher</string>
+
+    <string name="amt15">$1,000,000</string>
+    <string name="amt14">$500,000</string>
+    <string name="amt13">$250,000</string>
+    <string name="amt12">$150,000</string>
+    <string name="amt11">$75,000</string>
+    <string name="amt10">$50,000</string>
+    <string name="amt9">$25,000</string>
+    <string name="amt8">$15,000</string>
+    <string name="amt7">$10,000</string>
+    <string name="amt6">$7,500</string>
+    <string name="amt5">$5,000</string>
+    <string name="amt4">$3,000</string>
+    <string name="amt3">$2,000</string>
+    <string name="amt2">$1,000</string>
+    <string name="amt1">$500</string>
+    <string name="no15">15</string>
+    <string name="no14">14</string>
+    <string name="no13">13</string>
+    <string name="no12">12</string>
+    <string name="no11">11</string>
+    <string name="no10">10</string>
+    <string name="no9">9</string>
+    <string name="no8">8</string>
+    <string name="no7">7</string>
+    <string name="no6">6</string>
+    <string name="no5">5</string>
+    <string name="no4">4</string>
+    <string name="no3">3</string>
+    <string name="no2">2</string>
+    <string name="no1">1</string>
+</resources>
